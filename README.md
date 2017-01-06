@@ -59,7 +59,6 @@ Like `awesome-hyper`? Reach out to [@bitandbang](https://twitter.com/bitandbang)
 * [hyperterm-crosshair](https://www.npmjs.com/package/hyperterm-crosshair) - Shows the cursor position with an horizontal and vertical highlight/ruler.
 * [hyperterm-cursor](https://www.npmjs.com/package/hyperterm-cursor) - Allows seeing the char behind your cursor by a color difference.
 * [htyt](https://www.npmjs.com/package/htyt) - Search and play youtube videos in Hyper.
-* [hyperterm-tab-cwd](https://www.npmjs.com/package/hyperterm-tab-cwd) - Add the current working directory to the header tabs in Hyper
 * [hypersixteen](https://www.npmjs.com/package/hypersixteen) - A base16 loader for HyperTerm.
 * [hyper-stylesheet](https://www.npmjs.com/package/hyper-stylesheet) - Adds support for an external hyper stylesheet
 * [hyper-john](https://www.npmjs.com/package/hyper-john) - A 10% chance of getting hit with the John Cena theme when opening tabs, windows and splits.
@@ -78,7 +77,6 @@ Like `awesome-hyper`? Reach out to [@bitandbang](https://twitter.com/bitandbang)
 * [hyperblue](https://www.npmjs.com/package/hyperblue) – Dark, cool hues. Turns Hyper blue.
 * [hyperblue-vibrancy](https://www.npmjs.com/package/hyperblue-vibrancy) - The same cool tones from hyperblue, now with vibrancy!
 * [hyperterm-deep-space](https://www.npmjs.com/package/hyperterm-deep-space) - Dark - Dark, muted theme with good color matching.
-* [hyper-solarized-dark](https://www.npmjs.com/package/hyper-solarized-dark) - Pleasant and carefully chosen colors based on the popular [solarized](http://ethanschoonover.com/solarized) pallete.
 * [hyperterm-colors](https://www.npmjs.com/package/hyperterm-colors) - Dark - Sweet dark color scheme with a chocolate-y brown background and a pretty set of muted colors!
 * [hyper-snazzy](https://www.npmjs.com/package/hyper-snazzy) - Dark - Elegant theme with bright colors.
 * [hyperterm-gruvbox-dark](https://www.npmjs.com/package/hyperterm-gruvbox-dark) - Dark - Hyper theme with retro, earthy groove colors based on the [gruvbox](https://github.com/morhetz/gruvbox) vim color scheme.
@@ -135,6 +133,7 @@ Like `awesome-hyper`? Reach out to [@bitandbang](https://twitter.com/bitandbang)
 * [hyperterm-gooey](https://www.npmjs.com/package/hyperterm-gooey) - A dark theme with striking green and purple, based off atom-dark.
 * [hyper-zigorat](https://www.npmjs.com/package/hyper-zigorat) - A minimal syntax theme for Hyper.
 * [hypernasa](https://www.npmjs.com/package/hypernasa) - A theme which replaces the terminal background with NASA's Picture of the Day.
+* [hyper-solarized-dark](https://www.npmjs.com/package/hyper-solarized-dark) - Pleasant and carefully chosen colors based on the popular [solarized](http://ethanschoonover.com/solarized) pallete.
 * Know of another really awesome theme? [Get it on awesome-hyper!](https://github.com/bnb/awesome-hyper/issues/new)
 
 # Resources
